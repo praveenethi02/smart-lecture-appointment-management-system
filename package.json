@@ -1,0 +1,13 @@
+{
+  "name": "university-appointment-system",
+  "version": "1.0.0",
+  "description": "Smart Lecturer Appointment Management System - MERN Stack",
+  "scripts": {
+    "backend": "npm --prefix backend start",
+    "backend:dev": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "test:api": "npm --prefix backend run test",
+    "build": "npm --prefix frontend run build"
+  }
+}
